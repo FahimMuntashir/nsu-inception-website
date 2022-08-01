@@ -1,0 +1,23 @@
+html, body {
+    line-height: 1.5;
+    box-sizing: border-box;
+    margin: 0;
+    overflow-x: hidden;
+    top: 0;
+    left: 0;
+}
+
+#navbar-nav a{
+    text-decoration: none;
+    color: rgba(34, 54, 69, .7);
+    font-weight: 500;
+}
+
+
+#navbar-nav a:hover{
+    color: rgba(10, 21, 182, 0.034);
+}
+
+navbar-section {
+    color: green;
+}

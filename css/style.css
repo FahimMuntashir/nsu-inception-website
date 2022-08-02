@@ -6,18 +6,17 @@ html, body {
     top: 0;
     left: 0;
 }
-
-#navbar-nav a{
+.navbar-nav a{
     text-decoration: none;
     color: rgba(34, 54, 69, .7);
     font-weight: 500;
 }
-
-
-#navbar-nav a:hover{
+.navbar-nav a:hover{
     color: rgba(10, 21, 182, 0.034);
 }
-
-navbar-section {
+.navbar-section {
     color: green;
 }
+
+
+

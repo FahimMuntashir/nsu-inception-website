@@ -24,3 +24,12 @@ html, body {
     align-items: center;
     align-content: center;
 }
+
+
+.build-it{
+    background-color: rgb(55, 55, 151);
+    color: white;
+    text-align: center;
+    padding: 80px;
+}
+
